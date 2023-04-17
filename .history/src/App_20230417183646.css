@@ -25,6 +25,7 @@ nav{
 nav > ul{
   display: flex;
   gap: 3rem;
+  padding: 0.7rem;
   margin-left: 2rem;
 }
 

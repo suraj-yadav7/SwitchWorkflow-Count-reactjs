@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button{
+  width: 5rem;
+  margin: 10px;
+  height: 3rem;
+}
+
+.container1{
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.container1 >input{
+  width: 5rem;
+  height: 3rem;
+}
